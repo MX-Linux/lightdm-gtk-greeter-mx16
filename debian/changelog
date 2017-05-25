@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx16 (1.2mx16) mx; urgency=medium
+
+  * revised theme to arc-darker
+
+ -- dolphinoracle <dolphin@mx1>  Thu, 25 May 2017 06:20:50 -0400
+
 lightdm-gtk-greeter-mx16 (1.1mx16) mx; urgency=medium
 
   * new settings for point release mx 16.1
