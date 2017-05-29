@@ -1,2 +1,3 @@
 02_MX-16.conf			usr/share/lightdm/lightdm.conf.d
+lightdm-gtk-greeter.conf	etc/lightdm
 MediterraneanDarkest_MX-16/*	usr/share/themes/MediterraneanDarkest_MX-16

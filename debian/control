@@ -1,13 +1,16 @@
 Source: lightdm-gtk-greeter-mx16
 Section: x11
 Priority: extra
-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Maintainer: Steven Pusser <stevep@mxlinux.org>
 XSBC-Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
 
 Package: lightdm-gtk-greeter-mx16
 Architecture: all
-Depends: ${misc:Depends}, lightdm-gtk-greeter ( >> 2.0.1-2mx15+1), mx16-artwork
-Description: lightdm-gtk-greeter theme and configuration for MX16
+Depends: ${misc:Depends},
+ lightdm-gtk-greeter ( >> 2.0.1-2mx15+1),
+ mx16-artwork,
+ arc-theme
+Description: lightdm-gtk-greeter theme and configuration for MX 16.1
  .

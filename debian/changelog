@@ -1,8 +1,48 @@
-lightdm-gtk-greeter-mx16 (1.2mx16) mx; urgency=medium
+lightdm-gtk-greeter-mx16 (16.0.97+1) mx; urgency=medium
+
+  * Use Stevo's debian folder instead of one in github.
+
+ -- Timothy E. Harris <maintainer@mxrepo.com>  Fri, 26 May 2017 13:04:11 -0400
+
+lightdm-gtk-greeter-mx16 (16.0.97) mx; urgency=medium
 
   * revised theme to arc-darker
 
  -- dolphinoracle <dolphin@mx1>  Thu, 25 May 2017 06:20:50 -0400
+
+lightdm-gtk-greeter-mx16 (16.0.96) mx; urgency=medium
+
+  * Fix icons.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Tue, 09 May 2017 11:19:08 -0700
+
+lightdm-gtk-greeter-mx16 (16.0.95) mx; urgency=medium
+
+  * Correct versioning.
+  * Install /etc/lightdm/lightdm-gtk-greeter.conf in correct location.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Sun, 07 May 2017 07:41:18 -0700
+
+lightdm-gtk-greeter-mx16 (16.0.3) mx; urgency=medium
+
+  * Restore Mediterranean-Darkest theme in case anyone was using it.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Sat, 06 May 2017 17:21:56 -0700
+
+lightdm-gtk-greeter-mx16 (16.0.2) mx; urgency=medium
+
+  * Remove preinst script.
+  * Install /etc/lightdm/lightdm-gtk-greeter.conf.
+  * Don't install Mediterranean-Darkest theme.
+  * Depend on arc-theme.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Sat, 06 May 2017 16:59:35 -0700
+
+lightdm-gtk-greeter-mx16 (16.0.9) mx; urgency=medium
+
+  * Build for repository.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Sat, 06 May 2017 14:12:55 -0700
 
 lightdm-gtk-greeter-mx16 (1.1mx16) mx; urgency=medium
 
