@@ -11,6 +11,6 @@ Architecture: all
 Depends: ${misc:Depends},
  lightdm-gtk-greeter ( >> 2.0.1-2mx15+1),
  mx16-artwork,
- arc-theme
+ arc-grey-theme
 Description: lightdm-gtk-greeter theme and configuration for MX 16.1
  .
